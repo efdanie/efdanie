@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @efdanie
+- 👋 Hi, I’m @Daniel
 - 👀 I’m interested in earth science. 
 - 🌱 I’m currently learning data analysis. 
 - 💞️ I’m looking to collaborate on any area of geoscience and data analysis. 
